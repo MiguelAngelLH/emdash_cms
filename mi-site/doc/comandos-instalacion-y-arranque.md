@@ -43,7 +43,7 @@ corepack pnpm -v
 ## Paso 3. Entrar al proyecto
 
 ```powershell
-cd "D:\miguel angel\Documents\Estadias\emdash\emdash\mi-site"
+cd "C:\Usuarios\tu-usuario\ruta\a\tu-proyecto\mi-site"
 ```
 
 ## Paso 4. Instalar dependencias
@@ -102,7 +102,7 @@ Si vas a empezar desde cero en esta carpeta, esta es la secuencia minima:
 
 ```powershell
 corepack enable
-cd "D:\miguel angel\Documents\Estadias\emdash\emdash\mi-site"
+cd "C:\Usuarios\tu-usuario\ruta\a\tu-proyecto\mi-site"
 corepack pnpm install
 corepack pnpm bootstrap
 corepack pnpm dev
@@ -112,7 +112,7 @@ Si lo que quieres es compilar:
 
 ```powershell
 corepack enable
-cd "D:\miguel angel\Documents\Estadias\emdash\emdash\mi-site"
+cd "C:\Usuarios\tu-usuario\ruta\a\tu-proyecto\mi-site"
 corepack pnpm install
 corepack pnpm build
 ```
@@ -174,7 +174,7 @@ La forma correcta de trabajar este proyecto en tu entorno actual es:
 
 ```powershell
 corepack enable
-cd "D:\miguel angel\Documents\Estadias\emdash\emdash\mi-site"
+cd "C:\Usuarios\tu-usuario\ruta\a\tu-proyecto\mi-site"
 corepack pnpm install
 corepack pnpm bootstrap
 corepack pnpm dev
